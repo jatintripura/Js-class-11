@@ -1,0 +1,28 @@
+.form-area{
+ margin: 50px 0;  
+}
+.main-form{
+    padding:50px ;
+    background-image: linear-gradient(
+  270deg,
+  hsl(240deg 100% 20%) 0%,
+  hsl(272deg 100% 21%) 5%,
+  hsl(289deg 100% 21%) 10%,
+  hsl(304deg 100% 23%) 15%,
+  hsl(315deg 100% 27%) 21%,
+  hsl(323deg 100% 32%) 28%,
+  hsl(329deg 100% 36%) 34%,
+  hsl(334deg 100% 40%) 40%,
+  hsl(337deg 100% 43%) 46%,
+  hsl(346deg 83% 51%) 51%,
+  hsl(357deg 91% 59%) 57%,
+  hsl(8deg 100% 61%) 62%,
+  hsl(17deg 100% 59%) 68%,
+  hsl(26deg 100% 56%) 73%,
+  hsl(34deg 100% 53%) 79%,
+  hsl(40deg 100% 50%) 84%,
+  hsl(45deg 100% 50%) 89%,
+  hsl(50deg 100% 50%) 95%,
+  hsl(55deg 100% 50%) 100%
+);
+}
